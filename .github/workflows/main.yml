@@ -1,4 +1,4 @@
-name: CI
+name: CIPIPE
 on: [merge]
 jobs:
   build:
