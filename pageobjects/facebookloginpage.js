@@ -22,7 +22,7 @@ class FBLoginPage {
      */
     async login() {
         await this.inputUsername.setValue("Vissweswaran");
-        await this.inputPassword.setValue("Visswes@27");
+        await this.inputPassword.setValue("Visswes@270");
         await this.btnSubmit.click();
     }
 
